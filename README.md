@@ -9,6 +9,12 @@ Loras trained for stitch types using multiple popular open source models. Downlo
 
 More stitch types will be uploaded when they are created. If there is a specific stitch type that you'd like ot see added to the collection, please contact me.
 
+### Samples
+
+#### Stable Diffusion 1.5
+![sd15](https://github.com/user-attachments/assets/55630b74-9a4e-4b5a-9003-c599a077e946)
+
+
 ## Classifiers
 
 The neural net "stitch-matcher" was trained across scales to identify stitch types from colour photos. There is a black and white counterpart which has a similar success rate at identifying stitch type.
