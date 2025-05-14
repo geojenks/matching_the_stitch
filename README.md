@@ -14,6 +14,8 @@ More stitch types will be uploaded when they are created. If there is a specific
 #### Stable Diffusion 1.5
 ![sd15](https://github.com/user-attachments/assets/55630b74-9a4e-4b5a-9003-c599a077e946)
 
+![sdxl][LoRAs/Samples/sdxl.png]
+
 
 ## Classifiers
 
