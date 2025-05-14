@@ -5,16 +5,40 @@ This repository will be consistently updated to increase its utility as a toolki
 
 ## LoRAs
 
-Loras trained for stitch types using multiple popular open source models. Download the samples and drag the .png into comfyui to see the full workflow used to create the grid.
+Loras trained for stitch types using multiple popular open source models. Download the samples and drag the .png into comfyui to see the full workflow used to create the grid. Some LoRAs are split into multiple zipped files to come under the upload file size limit.
 
 More stitch types will be uploaded when they are created. If there is a specific stitch type that you'd like ot see added to the collection, please contact me.
 
 ### Samples
 
-#### Stable Diffusion 1.5
-![sd15](https://github.com/user-attachments/assets/55630b74-9a4e-4b5a-9003-c599a077e946)
+These samples are all illustrated using different prompts, which are visible if you drop the .png into a comfyui workflow. Better results are likely possible with different priompts (e.g. by including the word "embroidery")
 
+#### Flux
+![flux](LoRAs/Samples/flux.png)
+
+#### Flex
+![flex](LoRAs/Samples/flex.png)
+
+#### Juggernaut XI (XL)
+![juggernaut](LoRAs/Samples/juggernaut.png)
+
+#### SDXL base
 ![sdxl](LoRAs/Samples/sdxl.png)
+
+#### SD1.5
+![sd15](LoRAs/Samples/sd15.png)
+
+#### RealVis 4.0 (XL)
+![realvis](LoRAs/Samples/realvis.png)
+
+#### SD3.5 Large
+![sd35large](LoRAs/Samples/sdx35large.png)
+
+#### SD3.5 Medium
+![sd35med](LoRAs/Samples/sdx35medium.png)
+
+#### SD3.5 Medium including "embroidery" in prompt
+![sd35medemb](LoRAs/Samples/sdx35medium_embroidery.png)
 
 
 ## Classifiers
