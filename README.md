@@ -32,13 +32,13 @@ These samples are all illustrated using different prompts, which are visible if 
 ![realvis](LoRAs/Samples/realvis.png)
 
 #### SD3.5 Large
-![sd35large](LoRAs/Samples/sdx35large.png)
+![sd35large](LoRAs/Samples/sd35large.png)
 
 #### SD3.5 Medium
-![sd35med](LoRAs/Samples/sdx35medium.png)
+![sd35med](LoRAs/Samples/sd35medium.png)
 
 #### SD3.5 Medium including "embroidery" in prompt
-![sd35medemb](LoRAs/Samples/sdx35medium_embroidery.png)
+![sd35medemb](LoRAs/Samples/sd35medium_embroidery.png)
 
 
 ## Classifiers
